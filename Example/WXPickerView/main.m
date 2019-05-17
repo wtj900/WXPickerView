@@ -2,15 +2,16 @@
 //  main.m
 //  WXPickerView
 //
-//  Created by 王史超 on 2019/5/17.
-//  Copyright © 2019 offcn. All rights reserved.
+//  Created by wtj900 on 05/17/2019.
+//  Copyright (c) 2019 wtj900. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
-#import "AppDelegate.h"
+@import UIKit;
+#import "WXAppDelegate.h"
 
-int main(int argc, char * argv[]) {
+int main(int argc, char * argv[])
+{
     @autoreleasepool {
-        return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
+        return UIApplicationMain(argc, argv, nil, NSStringFromClass([WXAppDelegate class]));
     }
 }

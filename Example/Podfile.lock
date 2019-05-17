@@ -1,0 +1,16 @@
+PODS:
+  - WXPickerView (0.1.0)
+
+DEPENDENCIES:
+  - WXPickerView (from `../`)
+
+EXTERNAL SOURCES:
+  WXPickerView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WXPickerView: 196a80b65fe824ebe74fbbb4e6bd20bfccdf25f2
+
+PODFILE CHECKSUM: 964df8458cfae5a6b4190b63cde8fd61065dbfd7
+
+COCOAPODS: 1.6.1
